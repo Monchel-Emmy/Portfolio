@@ -136,7 +136,7 @@ function sendEmail(){
         + "<br> Message: "+document.getElementById("message").value
         + "<br>"+document.getElementById("address").value
     }).then(
-      message => alert(message)
+      message => alert("Message sent successfully ");
     );
 }
 
