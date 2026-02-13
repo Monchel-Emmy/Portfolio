@@ -665,7 +665,7 @@ main-text h2{
     overflow: hidden;
     background: #292e33;
     display: flex;
-    grid-template-rows: 1fr auto;
+    grid-template-rows: 2fr auto;
     align-items: center;
     border: 2px solid var(--hover-color);
     box-shadow: var(--neon-box-shadow);
