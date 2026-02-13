@@ -670,6 +670,8 @@ main-text h2{
     border: 2px solid var(--hover-color);
     box-shadow: var(--neon-box-shadow);
     min-height: 400px;
+    width: 100%;
+    max-width: 400px;
 }
 
 .port-image{
