@@ -669,6 +669,7 @@ main-text h2{
     align-items: center;
     border: 2px solid var(--hover-color);
     box-shadow: var(--neon-box-shadow);
+    min-height: 400px;
 }
 
 .port-image{
